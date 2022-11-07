@@ -1,0 +1,42 @@
+.test_image_and_result
+{
+    background-color:rgb(60, 56, 56);
+    color:white;
+    font-size:25px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color: grey;
+    line-height:3;
+    text-align: center;
+}
+
+img
+{
+    width:450px;
+    height:500px;
+}
+
+.output
+{
+ font-size:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
